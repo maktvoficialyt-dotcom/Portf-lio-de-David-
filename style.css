@@ -252,7 +252,7 @@ section.portfólio .flex {
     transition: 0.8s;
 }
 
-@media screen and (max-width: 100px) {
+@media screen and (max-width: 1321px) {
 
     /*CLASSES GERAIS*/
     .flex {
@@ -312,4 +312,5 @@ section.portfólio .flex {
     section.portfólio .flex {
         gap: 60px;
     }
+
 }
